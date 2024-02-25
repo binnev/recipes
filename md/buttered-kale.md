@@ -1,6 +1,8 @@
 # buttered kale
-Author: Louise Pickford
 ![](buttered_kale.jpg)
+
+Author: Louise Pickford
+
 From: https://www.deliciousmagazine.co.uk/recipes/garlicky-buttery-kale/
 
 ## Ingredients:

@@ -1,5 +1,7 @@
 # Bolognese Ragu
+
 Author: Gennaro Contaldo
+
 From: https://www.youtube.com/watch?v=_qy6HNqxhKU
 
 ## Ingredients:

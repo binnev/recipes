@@ -1,6 +1,9 @@
 # Neelam Bajwa's chicken madras
+
 Author: Neelam Bajwa
+
 From: https://www.youtube.com/watch?v=43yWAafyFMQ
+
 Notes: In this recipe we make the base curry sauce and the madras in one go.
 
 ## Ingredients:

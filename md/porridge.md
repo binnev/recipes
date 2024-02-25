@@ -1,6 +1,8 @@
 # porridge
+
 Author: 
-Equipment: 
+
+## Equipment: 
 - fridge
 - cup
 

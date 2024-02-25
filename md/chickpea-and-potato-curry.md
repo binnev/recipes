@@ -1,5 +1,7 @@
 # chickpea and potato curry
+
 Author: Runa Begum
+
 Notes: March 2019
 
 ## Ingredients:

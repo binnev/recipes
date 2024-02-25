@@ -1,7 +1,10 @@
 # lamb pork or beef madras
-Author: Madhur Jaffrey
 ![](lamb-pork-or-beef-madras.jpg)
+
+Author: Madhur Jaffrey
+
 From: https://thehappyfoodie.co.uk/recipes/lamb-pork-or-beef-madras
+
 Notes: In the UK, Madras has come to mean a very hot curry and not much more. Here is a more authentic southern porial, which traditionally uses coriander seeds, peppercorns, fennel and fenugreek seeds in its spice mixture. It is quite hot as well, and quite delicious.
 
 ## Ingredients:

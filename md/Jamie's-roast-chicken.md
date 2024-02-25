@@ -1,6 +1,8 @@
 # Jamie's roast chicken
-Author: Jamie Oliver
 ![](jamies-roast-chicken.jpeg)
+
+Author: Jamie Oliver
+
 From: Jamie's Ministry of Food
 
 ## Ingredients:

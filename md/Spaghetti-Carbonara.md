@@ -1,6 +1,9 @@
 # Spaghetti Carbonara
+
 Author: Gennaro Contaldo
+
 From: https://www.youtube.com/watch?v=dsg5H2TEQXs
+
 Notes: Why I'm cooking so good!
 
 ## Ingredients:

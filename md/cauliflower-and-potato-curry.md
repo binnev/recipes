@@ -1,5 +1,7 @@
 # cauliflower and potato curry
+
 Author: Runa Begum
+
 Notes: 21st Jan 2018
 
 ## Ingredients:

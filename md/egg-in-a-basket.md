@@ -1,7 +1,9 @@
 # egg in a basket
-Author: 
 ![](egg-in-a-basket.jpg)
-Equipment: 
+
+Author: 
+
+## Equipment: 
 - pint glass
 - frying pan
 

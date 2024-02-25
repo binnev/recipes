@@ -1,6 +1,8 @@
 # chicken madras curryhouse style
-Author: Dan Toombs
 ![](chicken-madras-curryhouse-style.jpg)
+
+Author: Dan Toombs
+
 From: https://greatcurryrecipes.net/2012/01/22/how-to-make-chicken-madras-a-curry-house-favourite/
 
 ## Ingredients:

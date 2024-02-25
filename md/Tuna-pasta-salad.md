@@ -1,6 +1,8 @@
 # Tuna pasta salad
-Author: Mary Clarke
 ![](tuna-pasta-salad.jpg)
+
+Author: Mary Clarke
+
 From: https://pastashoppe.com/pasta-salad-with-tuna-apple-and-dried-cranberries/
 
 ## Ingredients:

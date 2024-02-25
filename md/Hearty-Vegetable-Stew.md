@@ -1,8 +1,11 @@
 # Hearty Vegetable Stew
-Author: Chuck Underwood
 ![](hearty_vegetable_stew.jpg)
+
+Author: Chuck Underwood
+
 From: https://www.brandnewvegan.com/recipes/soups/vegetable-stew
-Equipment: 
+
+## Equipment: 
 - big stew pot
 
 ## Ingredients:

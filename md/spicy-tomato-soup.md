@@ -1,7 +1,10 @@
 # spicy tomato soup
+
 Author: Gordon Ramsay
+
 From: https://www.youtube.com/watch?v=fYBRZjkDxVk
-Equipment: 
+
+## Equipment: 
 - baking tray
 - hand blender
 

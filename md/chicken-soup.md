@@ -1,8 +1,11 @@
 # chicken soup
-Author: Wendi Spraker
 ![](chicken-soup.jpg)
+
+Author: Wendi Spraker
+
 From: https://www.loavesanddishes.net/the-secret-to-the-best-chicken-soup/
-Equipment: 
+
+## Equipment: 
 - two large cooking pots
 - slotted spoon
 - sieve

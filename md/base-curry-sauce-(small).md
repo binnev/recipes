@@ -1,5 +1,7 @@
 # base curry sauce (small)
+
 Author: Dan Toombs
+
 From: https://greatcurryrecipes.net/2011/06/24/how-to-make-restaurant-style-curry-sauce-for-use-in-many-different-curry-recipes/
 
 ## Ingredients:

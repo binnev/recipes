@@ -1,6 +1,8 @@
 # potato gratin
-Author: Nigella Lawson
 ![](potato-gratin.jpg)
+
+Author: Nigella Lawson
+
 From: https://www.nigella.com/recipes/creamy-potato-gratin
 
 ## Ingredients:
