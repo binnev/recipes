@@ -1,5 +1,5 @@
 # chicken madras curryhouse style
-![](chicken-madras-curryhouse-style.jpg)
+![](images/chicken-madras-curryhouse-style.jpg)
 
 Author: Dan Toombs
 

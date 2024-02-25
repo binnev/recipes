@@ -1,5 +1,5 @@
 # roast potatoes
-![](roast_potatoes.jpg)
+![](images/roast_potatoes.jpg)
 
 Author: Tom Kerridge
 

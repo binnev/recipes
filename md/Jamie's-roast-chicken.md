@@ -1,5 +1,5 @@
 # Jamie's roast chicken
-![](jamies-roast-chicken.jpeg)
+![](images/jamies-roast-chicken.jpeg)
 
 Author: Jamie Oliver
 

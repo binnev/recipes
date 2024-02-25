@@ -1,5 +1,5 @@
 # egg in a basket
-![](egg-in-a-basket.jpg)
+![](images/egg-in-a-basket.jpg)
 
 Author: 
 

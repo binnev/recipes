@@ -1,5 +1,5 @@
 # Hearty Vegetable Stew
-![](hearty_vegetable_stew.jpg)
+![](images/hearty_vegetable_stew.jpg)
 
 Author: Chuck Underwood
 

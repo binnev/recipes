@@ -1,5 +1,5 @@
 # lamb pork or beef madras
-![](lamb-pork-or-beef-madras.jpg)
+![](images/lamb-pork-or-beef-madras.jpg)
 
 Author: Madhur Jaffrey
 
