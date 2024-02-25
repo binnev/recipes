@@ -1,5 +1,5 @@
 # chicken soup
-![](images/chicken-soup.jpg)
+![](../images/chicken-soup.jpg)
 
 Author: Wendi Spraker
 

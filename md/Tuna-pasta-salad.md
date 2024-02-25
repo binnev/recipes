@@ -1,5 +1,5 @@
 # Tuna pasta salad
-![](images/tuna-pasta-salad.jpg)
+![](../images/tuna-pasta-salad.jpg)
 
 Author: Mary Clarke
 

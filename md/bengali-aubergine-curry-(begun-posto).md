@@ -1,5 +1,5 @@
 # bengali aubergine curry (begun posto)
-![](images/begun-posto.png)
+![](../images/begun-posto.png)
 
 Author: Bangalir Ranna Banna
 

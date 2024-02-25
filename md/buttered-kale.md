@@ -1,5 +1,5 @@
 # buttered kale
-![](images/buttered_kale.jpg)
+![](../images/buttered_kale.jpg)
 
 Author: Louise Pickford
 

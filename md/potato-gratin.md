@@ -1,5 +1,5 @@
 # potato gratin
-![](images/potato-gratin.jpg)
+![](../images/potato-gratin.jpg)
 
 Author: Nigella Lawson
 
