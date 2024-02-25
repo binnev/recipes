@@ -2,6 +2,7 @@
 Author: Dan Toombs
 ![](chicken-madras-curryhouse-style.jpg)
 From: https://greatcurryrecipes.net/2012/01/22/how-to-make-chicken-madras-a-curry-house-favourite/
+
 ## Ingredients:
 - [ ] 800 g chicken
 - [ ] 2 tbsp ghee or vegetable oil
@@ -20,6 +21,7 @@ From: https://greatcurryrecipes.net/2012/01/22/how-to-make-chicken-madras-a-curr
 - [ ] 2 tbsp mango chutney
 - [ ] Fresh coriander
 - [ ] A pinch of garam masala (Optional)
+
 ## Method:
 1. For best results, always warm your curry sauce before adding it to the curry.
 2. Heat the ghee/oil over medium heat in a large pan or wok.

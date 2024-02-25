@@ -1,5 +1,6 @@
 # dhaal
 Author: Runa Begum
+
 ## Ingredients:
 - [ ] 1 cup red lentils
 - [ ] 2 medium onions, finely chopped
@@ -12,6 +13,7 @@ Author: Runa Begum
 - [ ] 1 tsp salt
 - [ ] 0.5 bulb garlic, finely chopped
 - [ ] fresh coriander
+
 ## Method:
 1. soak lentils for at least 1 hour before. Wash thoroughly before use.
 2. heat oil in pan. Add bay leaves, onions, green chillies, and salt. Cook until onions are soft and translucent.

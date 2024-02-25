@@ -1,6 +1,7 @@
 # cauliflower and potato curry
 Author: Runa Begum
 Notes: 21st Jan 2018
+
 ## Ingredients:
 - [ ] 2 onions, finely chopped
 - [ ] 2 small bay leaves
@@ -17,6 +18,7 @@ Notes: 21st Jan 2018
 - [ ] 1 tsp hot chilli powder
 - [ ] 1 tsp ground cumin
 - [ ] fresh coriander
+
 ## Method:
 1. chop potatoes and cauliflower and leave to soak in water. Chop onions and chillies
 2. add 3 tbsp veg oil to pan and heat. Cook bay leaves and chillies for few minutes

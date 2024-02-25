@@ -6,6 +6,7 @@ Equipment:
 - two large cooking pots
 - slotted spoon
 - sieve
+
 ## Ingredients:
 - [ ] 2 kg chicken thighs (or whole chicken)
 - [ ] 2 white onion, cut into quarters
@@ -16,6 +17,7 @@ Equipment:
 - [ ] 2 bay leaves
 - [ ] fresh chives
 - [ ] crusty bread
+
 ## Method:
 1. Add the chicken and other ingredients into the pot, and cover with cold water
 2. Use a medium heat to bring the water to the boil. As soon as you see bubbles, turn the heat down as low as possible. You want to try and simmer this as gently as possible, because boiling the chicken too hard makes the broth cloudy. Cover with a lid.

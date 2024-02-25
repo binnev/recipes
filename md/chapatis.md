@@ -1,11 +1,13 @@
 # chapatis
 Author: Rahman Neville
 Notes: 1 Oct 2016
+
 ## Ingredients:
 - [ ] 2 cup wholemeal flour
 - [ ] 1 cup water
 - [ ] 2 tbsp vegetable oil
 - [ ] salt to taste
+
 ## Method:
 1. put the flour and salt in a bowl. Add the water bit by bit, stirring with a spoon.
 2. once all the water is in, knead the mixture into an elastic dough.

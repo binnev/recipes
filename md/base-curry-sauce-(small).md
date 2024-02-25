@@ -1,6 +1,7 @@
 # base curry sauce (small)
 Author: Dan Toombs
 From: https://greatcurryrecipes.net/2011/06/24/how-to-make-restaurant-style-curry-sauce-for-use-in-many-different-curry-recipes/
+
 ## Ingredients:
 - [ ] 3 tennis ball sized cooking onions, finely sliced
 - [ ] 50 ml vegetable oil or ghee
@@ -16,6 +17,7 @@ From: https://greatcurryrecipes.net/2011/06/24/how-to-make-restaurant-style-curr
 - [ ] 1 tsp coriander powder
 - [ ] 1 tsp ground fenugreek seeds
 - [ ] 1 tsp smoked paprika
+
 ## Method:
 1. Place the ginger and garlic with a drop of the water in a blender and pulverize to a smooth paste. Set aside.
 2. Now pour the oil/ghee into a large heavy bottomed saucepan and heat until bubbling.

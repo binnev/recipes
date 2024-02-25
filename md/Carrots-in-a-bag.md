@@ -1,6 +1,7 @@
 # Carrots in a bag
 Author: Jamie Oliver
 From: https://www.youtube.com/watch?v=F3Z151LkEVg
+
 ## Ingredients:
 - [ ] tin foil
 - [ ] carrots, different colours are good
@@ -10,6 +11,7 @@ From: https://www.youtube.com/watch?v=F3Z151LkEVg
 - [ ] orange peel (optional)
 - [ ] 1 egg, to use as glue for tin foil "envelope"
 - [ ] 1 glass white wine
+
 ## Method:
 1. Chop the tops off the carrots, leaving short bits of leaf/shoot.
 2. Lay out sheet of tin foil. Put carrots on it.

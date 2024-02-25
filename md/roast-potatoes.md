@@ -2,11 +2,13 @@
 Author: Tom Kerridge
 ![](roast_potatoes.jpg)
 From: https://www.thetimes.co.uk/article/best-roast-potatoes-fried-sprouts-vegetable-side-dish-recipes-christmas-2019-b57980dzs
+
 ## Ingredients:
 - [ ] 1.5 kg potatoes (maris piper)
 - [ ] 300 ml vegetable oil (or duck/goose fat)
 - [ ] 8 clove garlic
 - [ ] 4 sprig rosemary
+
 ## Method:
 1. Peel the potatoes and cut them into even-sized pieces. Put them in a pan of water and bring to the boil, then simmer until they are just starting to soften. Remove with a slotted spoon and put them first on a wire rack to cool, then in the fridge.
 2. Heat the oven to 180C (200C non-fan). Spoon the fat into a roasting tin and heat in the oven. Once it’s hot, carefully add the potatoes so you don’t get splashed by the fat.

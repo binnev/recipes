@@ -2,6 +2,7 @@
 Author: Neelam Bajwa
 From: https://www.youtube.com/watch?v=43yWAafyFMQ
 Notes: In this recipe we make the base curry sauce and the madras in one go.
+
 ## Ingredients:
 - [ ] 2 tbsp ghee or veg oil
 - [ ] 2 onions
@@ -29,6 +30,7 @@ Notes: In this recipe we make the base curry sauce and the madras in one go.
 - [ ] 1 tsp turmeric
 - [ ] 2 tbsp chilli powder
 - [ ] fresh coriander
+
 ## Method:
 1. Prepare the gravy spice mix; pinch of turmeric powder, 1 tsp cumin powder, 1tsp coriander powder and 1.5 tsp ground fenugreek seeds
 2. Prepare the madras spice mix; 4 cardamoms, 1 tsp turmeric powder, 1 tbsp coriander powder, 1 tbsp cumin powder, 2 tbsp red chilli powder.

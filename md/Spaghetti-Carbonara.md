@@ -2,11 +2,13 @@
 Author: Gennaro Contaldo
 From: https://www.youtube.com/watch?v=dsg5H2TEQXs
 Notes: Why I'm cooking so good!
+
 ## Ingredients:
 - [ ] spaghetti
 - [ ] 1 handful guanciale, diced
 - [ ] 3 eggs
 - [ ] 50 g pecorino
+
 ## Method:
 1. Prepare the egg mixture; mix 3 egg yolks with the grated pecorino and a generous grind of black pepper
 2. Put the spaghetti on to boil in a pan of salted water

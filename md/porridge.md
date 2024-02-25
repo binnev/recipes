@@ -3,11 +3,13 @@ Author:
 Equipment: 
 - fridge
 - cup
+
 ## Ingredients:
 - [ ] 40 gram oats
 - [ ] water
 - [ ] 1 handful chia seeds
 - [ ] apples
+
 ## Method:
 1. put oats and chia seeds in water in cup
 2. put cup in fridge

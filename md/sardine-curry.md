@@ -1,6 +1,7 @@
 # sardine curry
 Author: Runa Begum
 Notes: 10/8/16
+
 ## Ingredients:
 - [ ] 2 large white onion, finely chopped
 - [ ] 8 clove garlic, finely chopped
@@ -13,6 +14,7 @@ Notes: 10/8/16
 - [ ] 1 tsp ground cumin
 - [ ] 1 tsp hot chilli powder
 - [ ] fresh coriander
+
 ## Method:
 1. heat oil in pan and brown garlic
 2. add onions, green chillies, and salt. Soften onions

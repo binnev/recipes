@@ -1,6 +1,7 @@
 # chickpea and potato curry
 Author: Runa Begum
 Notes: March 2019
+
 ## Ingredients:
 - [ ] 3 medium onions, finely chopped
 - [ ] 4 green chillies
@@ -19,6 +20,7 @@ Notes: March 2019
 - [ ] 2 tsp salt
 - [ ] fresh coriander
 - [ ] lemon
+
 ## Method:
 1. heat oil in pan. Fry the mustard seeds, garlic, and ginger paste. Add onions, green chillies, and salt. Soften the onions.
 2. add all spices. Cook for a few minutes

@@ -4,6 +4,7 @@ From: https://www.youtube.com/watch?v=fYBRZjkDxVk
 Equipment: 
 - baking tray
 - hand blender
+
 ## Ingredients:
 - [ ] 12 tomatoes
 - [ ] 2 red onions
@@ -14,6 +15,7 @@ Equipment:
 - [ ] 1 small pot cream
 - [ ] 1 veg stock pot
 - [ ] the finest rustic sourdough loaf
+
 ## Method:
 1. take the core out of the tomatoes
 2. finely chop the onions and garlic and fry on a baking tray on the stove

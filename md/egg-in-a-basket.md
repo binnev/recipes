@@ -4,12 +4,14 @@ Author:
 Equipment: 
 - pint glass
 - frying pan
+
 ## Ingredients:
 - [ ] 3 grams salt
 - [ ] 0.5 g pepper
 - [ ] 1 large egg
 - [ ] 1 slice bread
 - [ ] butter
+
 ## Method:
 1. butter the slice of bread
 2. cut out the lid with the pint glass

@@ -1,6 +1,7 @@
 # spinach and king prawns
 Author: Runa Begum
 Notes: 11/6/16
+
 ## Ingredients:
 - [ ] 225 g frozen (uncooked) king prawns (get the good ones)
 - [ ] 400 g fresh spinach, roughly chopped/torn
@@ -14,6 +15,7 @@ Notes: 11/6/16
 - [ ] 0.5 tsp chilli powder
 - [ ] 3 fresh tomatoes, cut into eight pieces each
 - [ ] fresh coriander, roughly chopped
+
 ## Method:
 1. put frozen prawns in lukewarm water and heat until cooking
 2. add 3 tbsp vegetable oil in another hot pan. Lightly brown the garlic then add the onions, chillies, and salt. Cook until onions are translucent

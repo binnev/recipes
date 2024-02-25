@@ -1,6 +1,7 @@
 # kebabs
 Author: Runa Begum
 Notes: 16/4/16
+
 ## Ingredients:
 - [ ] 375 g reduced fat beef mince
 - [ ] 4 cloves garlic, grated
@@ -15,5 +16,6 @@ Notes: 16/4/16
 - [ ] 0.5 tsp curry powder
 - [ ] fresh coriander, finely chopped
 - [ ] 1 egg
+
 ## Method:
 1. mix everything together, thoroughly squishing with hands. Leave to stand for at least 30 minutes at room temperature before shallow frying

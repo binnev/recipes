@@ -1,6 +1,7 @@
 # aloo bazee
 Author: Runa Begum
 Notes: 20/5/16
+
 ## Ingredients:
 - [ ] 1 kg King Edward potatoes, peeled and thinly chopped into matchsticks.
 - [ ] 1 large white onion, finely chopped
@@ -11,6 +12,7 @@ Notes: 20/5/16
 - [ ] 0.5 tsp chilli powder
 - [ ] 0.5 tsp curry powder
 - [ ] handful of fresh coriander
+
 ## Method:
 1. Chop the potatoes and leave in cold water to soak while prepping the other ingredients.
 2. add 3 tbsp veg oil to hot pan. Cook onions, green chillies and salt until onions are soft and translucent. Do not brown. Cook on medium heat.

@@ -1,6 +1,7 @@
 # Bolognese Ragu
 Author: Gennaro Contaldo
 From: https://www.youtube.com/watch?v=_qy6HNqxhKU
+
 ## Ingredients:
 - [ ] 1 carrot
 - [ ] 1 onion
@@ -12,6 +13,7 @@ From: https://www.youtube.com/watch?v=_qy6HNqxhKU
 - [ ] 1 tbsp tomato paste
 - [ ] 500 ml stock
 - [ ] pecorino
+
 ## Method:
 1. Make the "sofrito" -- finely chop the onion, celery, pancetta, and fry it together until it is soft
 2. Brown the mince

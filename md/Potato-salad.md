@@ -1,5 +1,6 @@
 # Potato salad
 Author: Robin Neville
+
 ## Ingredients:
 - [ ] 1 kg floury potatoes
 - [ ] 3 eggs, hard boiled
@@ -9,6 +10,7 @@ Author: Robin Neville
 - [ ] 3 tbsp mayonnaise
 - [ ] 2 tsp whole-grain mustard
 - [ ] 5 sprigs dill
+
 ## Method:
 1. peel and chop the potatoes into small-ish (2-3cm) chunks.
 2. boil the potatoes in well salted water until they are cooked through

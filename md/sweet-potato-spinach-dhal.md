@@ -1,5 +1,6 @@
 # sweet potato spinach dhal
 Author: Robin Neville
+
 ## Ingredients:
 - [ ] 1 tbsp sesame oil
 - [ ] 1 red onion, finely chopped
@@ -16,6 +17,7 @@ Author: Robin Neville
 - [ ] thai basil leaves, torn
 - [ ] pitta breads
 - [ ] greek yoghurt and some kind of herb for dipping
+
 ## Method:
 1. heat oil. wide pan, tight lid
 2. cook onion gently for 10 minutes

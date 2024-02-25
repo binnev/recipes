@@ -2,6 +2,7 @@
 Author: Mary Clarke
 ![](tuna-pasta-salad.jpg)
 From: https://pastashoppe.com/pasta-salad-with-tuna-apple-and-dried-cranberries/
+
 ## Ingredients:
 - [ ] 200 g pasta, cooked according to package directions.
 - [ ] 2 small cans of tuna packed in water
@@ -11,6 +12,7 @@ From: https://pastashoppe.com/pasta-salad-with-tuna-apple-and-dried-cranberries/
 - [ ] 60 g almonds flakes, toasted (save some for garnish)
 - [ ] 60 g mayo
 - [ ] Romaine lettuce
+
 ## Method:
 1. Cook pasta according to package directions, drain, and rinse with cold water.
 2. Carefully combine and toss all ingredients in a large bowl.

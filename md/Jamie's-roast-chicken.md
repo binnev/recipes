@@ -2,6 +2,7 @@
 Author: Jamie Oliver
 ![](jamies-roast-chicken.jpeg)
 From: Jamie's Ministry of Food
+
 ## Ingredients:
 - [ ] 1.6 kg higher-welfare chicken
 - [ ] 2 onions
@@ -13,6 +14,7 @@ From: Jamie's Ministry of Food
 - [ ] 1 bunch fresh thyme
 - [ ] 1 bunch fresh rosemary
 - [ ] 1 bunch fresh bay
+
 ## Method:
 1. Take your chicken out of the fridge 30 minutes before it goes into the oven
 2. Preheat your oven to 240 C/475 F/gas 9

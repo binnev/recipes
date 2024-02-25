@@ -2,6 +2,7 @@
 Author: Nigella Lawson
 ![](potato-gratin.jpg)
 From: https://www.nigella.com/recipes/creamy-potato-gratin
+
 ## Ingredients:
 - [ ] 2 kg floury potatoes e.g. King Edwards
 - [ ] 500 ml full-fat milk
@@ -10,6 +11,7 @@ From: https://www.nigella.com/recipes/creamy-potato-gratin
 - [ ] 2 cloves garlic
 - [ ] 50 g unsalted butter
 - [ ] 1 tbsp salt
+
 ## Method:
 1. pre-heat the oven to 240 C
 2. peel and slice the potatoes to ~1cm thick

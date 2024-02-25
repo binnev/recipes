@@ -4,6 +4,7 @@ Author: Chuck Underwood
 From: https://www.brandnewvegan.com/recipes/soups/vegetable-stew
 Equipment: 
 - big stew pot
+
 ## Ingredients:
 - [ ] 2 onion, minced
 - [ ] 1 clove garlic, minced
@@ -21,6 +22,7 @@ Equipment:
 - [ ] 1 tbsp balsamic vinegar
 - [ ] cornstarch
 - [ ] 100 g frozen peas
+
 ## Method:
 1. chop the carrot, celery, garlic, and onions very finely
 2. saute this mixture in 1/4 cup of veggie broth until the veggies are nice and soft.

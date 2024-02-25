@@ -1,6 +1,7 @@
 # Jamie's Italian leg of lamb
 Author: Jamie Oliver
 From: https://www.youtube.com/watch?v=_pHsF3qiE0w&t=241s
+
 ## Ingredients:
 - [ ] 1.5 kg leg of lamb
 - [ ] 1 jar kalamata olives
@@ -11,6 +12,7 @@ From: https://www.youtube.com/watch?v=_pHsF3qiE0w&t=241s
 - [ ] 1 splash red wine
 - [ ] flour
 - [ ] chicken stock
+
 ## Method:
 1. chop the garlic and anchovies, and break the rosemary into small sprigs.
 2. cut some shallow holes in the lamb (along the fatty white bits) and stuff a little bit of garlic, anchovy, and rosemary in there.

@@ -1,5 +1,6 @@
 # bean chilli v1.2
 Author: Robin Neville, Runa Begum
+
 ## Ingredients:
 - [ ] 3 400g can plum tomatoes
 - [ ] 3 400g can black eyed beans
@@ -15,6 +16,7 @@ Author: Robin Neville, Runa Begum
 - [ ] little bit of dried thyme
 - [ ] 1 large potato (cut into 1cm cubes)
 - [ ] 1 vegetable stock cube
+
 ## Method:
 1. sweat onions and garlic with dried thyme
 2. add cubed potato and brown

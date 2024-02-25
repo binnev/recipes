@@ -1,5 +1,6 @@
 # Sex chicken
 Author: Robin Neville
+
 ## Ingredients:
 - [ ] tagliatelle or linguine
 - [ ] 1 whole chicken
@@ -10,6 +11,7 @@ Author: Robin Neville
 - [ ] 1 glass white wine
 - [ ] 100 ml cream
 - [ ] 50 g pecorino
+
 ## Method:
 1. Chop the tomatoes in half and chuck them in the baking tray with the olives and some thyme, salt, and pepper.
 2. Chop the chicken up into pieces and place these on the baking tray rack. Rub lightly with oil, thyme, and salt.
