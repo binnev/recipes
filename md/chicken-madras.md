@@ -1,4 +1,4 @@
-# Neelam Bajwa's chicken madras
+# Chicken madras
 
 Author: Neelam Bajwa
 
