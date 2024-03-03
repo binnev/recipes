@@ -6,7 +6,7 @@ Author: Chuck Underwood
 From: https://www.brandnewvegan.com/recipes/soups/vegetable-stew
 
 ## Equipment: 
-- big stew pot
+- Big stew pot
 
 ## Ingredients:
 - [ ] 2 onion, minced
@@ -23,12 +23,12 @@ From: https://www.brandnewvegan.com/recipes/soups/vegetable-stew
 - [ ] 2 large potatoes, chopped
 - [ ] 1 tbsp tomato puree
 - [ ] 1 tbsp balsamic vinegar
-- [ ] cornstarch
+- [ ] Cornstarch
 - [ ] 100 g frozen peas
 
 ## Method:
-1. chop the carrot, celery, garlic, and onions very finely
-2. saute this mixture in 1/4 cup of veggie broth until the veggies are nice and soft.
+1. Chop the carrot, celery, garlic, and onions very finely
+2. Saute this mixture in 1/4 cup of veggie broth until the veggies are nice and soft.
 3. It's OK if the liquid gets a little low - the brown bits add to the flavour
 4. Add the mushrooms and cook on medium high heat until they lose their liquid.
 5. Add the rosemary and oregano

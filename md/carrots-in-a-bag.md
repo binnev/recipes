@@ -5,12 +5,12 @@ Author: Jamie Oliver
 From: https://www.youtube.com/watch?v=F3Z151LkEVg
 
 ## Ingredients:
-- [ ] tin foil
-- [ ] carrots, different colours are good
+- [ ] Tin foil
+- [ ] Carrots, different colours are good
 - [ ] 1 pinch cumin
-- [ ] butter
-- [ ] thyme
-- [ ] orange peel (optional)
+- [ ] Butter
+- [ ] Thyme
+- [ ] Orange peel (optional)
 - [ ] 1 egg, to use as glue for tin foil "envelope"
 - [ ] 1 glass white wine
 

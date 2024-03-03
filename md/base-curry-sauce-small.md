@@ -1,4 +1,4 @@
-# base curry sauce (small)
+# Base curry sauce (small)
 
 Author: Dan Toombs
 

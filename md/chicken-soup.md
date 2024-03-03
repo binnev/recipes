@@ -1,4 +1,4 @@
-# chicken soup
+# Chicken soup
 ![](../images/chicken-soup.jpg)
 
 Author: Wendi Spraker
@@ -6,9 +6,9 @@ Author: Wendi Spraker
 From: https://www.loavesanddishes.net/the-secret-to-the-best-chicken-soup/
 
 ## Equipment: 
-- two large cooking pots
-- slotted spoon
-- sieve
+- Two large cooking pots
+- Slotted spoon
+- Sieve
 
 ## Ingredients:
 - [ ] 2 kg chicken thighs (or whole chicken)
@@ -18,8 +18,8 @@ From: https://www.loavesanddishes.net/the-secret-to-the-best-chicken-soup/
 - [ ] 8 stalks celery
 - [ ] 4 sprigs fresh thyme
 - [ ] 2 bay leaves
-- [ ] fresh chives
-- [ ] crusty bread
+- [ ] Fresh chives
+- [ ] Crusty bread
 
 ## Method:
 1. Add the chicken and other ingredients into the pot, and cover with cold water

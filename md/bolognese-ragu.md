@@ -14,7 +14,7 @@ From: https://www.youtube.com/watch?v=_qy6HNqxhKU
 - [ ] 0.5 glass red wine
 - [ ] 1 tbsp tomato paste
 - [ ] 500 ml stock
-- [ ] pecorino
+- [ ] Pecorino
 
 ## Method:
 1. Make the "sofrito" -- finely chop the onion, celery, pancetta, and fry it together until it is soft

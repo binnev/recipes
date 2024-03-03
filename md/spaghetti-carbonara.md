@@ -7,7 +7,7 @@ From: https://www.youtube.com/watch?v=dsg5H2TEQXs
 Notes: Why I'm cooking so good!
 
 ## Ingredients:
-- [ ] spaghetti
+- [ ] Spaghetti
 - [ ] 1 handful guanciale, diced
 - [ ] 3 eggs
 - [ ] 50 g pecorino

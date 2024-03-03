@@ -32,7 +32,7 @@ Notes: In this recipe we make the base curry sauce and the madras in one go.
 - [ ] 2 tbsp Madras Curry Powder
 - [ ] 1 tsp turmeric
 - [ ] 2 tbsp chilli powder
-- [ ] fresh coriander
+- [ ] Fresh coriander
 
 ## Method:
 1. Prepare the gravy spice mix; pinch of turmeric powder, 1 tsp cumin powder, 1tsp coriander powder and 1.5 tsp ground fenugreek seeds

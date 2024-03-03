@@ -1,4 +1,4 @@
-# sweet potato spinach dhal
+# Sweet potato spinach dhal
 
 Author: Robin Neville
 
@@ -15,15 +15,15 @@ Author: Robin Neville
 - [ ] 600 ml vegetable stock
 - [ ] 80 g spinach
 - [ ] 4 spring onions, chopped diagonally
-- [ ] thai basil leaves, torn
-- [ ] pitta breads
-- [ ] greek yoghurt and some kind of herb for dipping
+- [ ] Thai basil leaves, torn
+- [ ] Pitta breads
+- [ ] Greek yoghurt and some kind of herb for dipping
 
 ## Method:
-1. heat oil. wide pan, tight lid
-2. cook onion gently for 10 minutes
-3. add chilli, ginger, garlic for 1 min
-4. add spices for 1 min
-5. turn heat to medium. Add sweet potato. Stir.
+1. Heat oil. wide pan, tight lid
+2. Cook onion gently for 10 minutes
+3. Add chilli, ginger, garlic for 1 min
+4. Add spices for 1 min
+5. Turn heat to medium. Add sweet potato. Stir.
 6. Add lentils, stock, seasoning. Bring to boil then reduce heat. Cover and cook for 20 min till potato and lentils are tender
 7. Stir in spinach. Once wilted, add spring onions and basil, and serve.

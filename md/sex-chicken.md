@@ -3,7 +3,7 @@
 Author: Robin Neville
 
 ## Ingredients:
-- [ ] tagliatelle or linguine
+- [ ] Tagliatelle or linguine
 - [ ] 1 whole chicken
 - [ ] 100 g kalamata olives
 - [ ] 500 g cherry tomatoes
@@ -19,5 +19,5 @@ Author: Robin Neville
 3. Chuck it in the oven for about 40 minutes or until the chicken is golden
 4. Boil the pasta
 5. Let the chicken rest
-6. deglaze the baking tray with the white wine. Add some of the starchy pasta water. Reduce down and add the cream
+6. Deglaze the baking tray with the white wine. Add some of the starchy pasta water. Reduce down and add the cream
 7. Serve with a good grating of pecorino

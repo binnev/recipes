@@ -1,4 +1,4 @@
-# chickpea and potato curry
+# Chickpea and potato curry
 
 Author: Runa Begum
 
@@ -20,13 +20,13 @@ Notes: March 2019
 - [ ] 1 tsp garam masala
 - [ ] 1 tsp asafoetida
 - [ ] 2 tsp salt
-- [ ] fresh coriander
-- [ ] lemon
+- [ ] Fresh coriander
+- [ ] Lemon
 
 ## Method:
-1. heat oil in pan. Fry the mustard seeds, garlic, and ginger paste. Add onions, green chillies, and salt. Soften the onions.
-2. add all spices. Cook for a few minutes
+1. Heat oil in pan. Fry the mustard seeds, garlic, and ginger paste. Add onions, green chillies, and salt. Soften the onions.
+2. Add all spices. Cook for a few minutes
 3. Add tinned tomatoes. Cook for 5 minutes
-4. add chickpeas and 500ml water. Bring to boil then simmer covered for ~5 minutes
-5. add potatoes. Leave to simmer
-6. once potatoes are soft, add the chopped coriander and serve
+4. Add chickpeas and 500ml water. Bring to boil then simmer covered for ~5 minutes
+5. Add potatoes. Leave to simmer
+6. Once potatoes are soft, add the chopped coriander and serve

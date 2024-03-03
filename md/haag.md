@@ -1,4 +1,4 @@
-# haag
+# Haag
 
 Author: Runa Begum
 
@@ -12,7 +12,7 @@ Notes: 11/9/2016
 - [ ] 2 tbsp salt
 
 ## Method:
-1. add plenty of oil in pan. Lightly brown garlic once oil heated.
-2. add onions, chillies, and salt. Soften onions until translucent. Cook slowly covered
-3. add spinach. Squeeze water out of handfuls of defrosted spinach and add to pan. Mix in and cook covered for a few minutes
-4. uncover and continue to cook (to dry off spinach)
+1. Add plenty of oil in pan. Lightly brown garlic once oil heated.
+2. Add onions, chillies, and salt. Soften onions until translucent. Cook slowly covered
+3. Add spinach. Squeeze water out of handfuls of defrosted spinach and add to pan. Mix in and cook covered for a few minutes
+4. Uncover and continue to cook (to dry off spinach)

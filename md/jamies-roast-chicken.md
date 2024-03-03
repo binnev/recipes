@@ -11,7 +11,7 @@ From: Jamie's Ministry of Food
 - [ ] 2 carrots
 - [ ] 2 sticks celery
 - [ ] 1 bulb garlic
-- [ ] olive oil
+- [ ] Olive oil
 - [ ] 1 lemon
 - [ ] 1 bunch fresh thyme
 - [ ] 1 bunch fresh rosemary

@@ -1,4 +1,4 @@
-# kebabs
+# Kebabs
 
 Author: Runa Begum
 
@@ -16,8 +16,8 @@ Notes: 16/4/16
 - [ ] 1 tsp turmeric powder
 - [ ] 0.5 tsp ground ginger
 - [ ] 0.5 tsp curry powder
-- [ ] fresh coriander, finely chopped
+- [ ] Fresh coriander, finely chopped
 - [ ] 1 egg
 
 ## Method:
-1. mix everything together, thoroughly squishing with hands. Leave to stand for at least 30 minutes at room temperature before shallow frying
+1. Mix everything together, thoroughly squishing with hands. Leave to stand for at least 30 minutes at room temperature before shallow frying

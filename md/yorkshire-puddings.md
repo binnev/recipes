@@ -1,4 +1,4 @@
-# yorkshire puddings
+# Yorkshire puddings
 
 Author: Jamie Oliver
 
@@ -8,7 +8,7 @@ From: https://www.youtube.com/watch?v=nUvIJqhq0KQ
 - [ ] 4 eggs
 - [ ] 200 ml whole milk
 - [ ] 200 g plain flour
-- [ ] sunflower/groundnut oil (high smoke point)
+- [ ] Sunflower/groundnut oil (high smoke point)
 
 ## Method:
 1. Preheat the oven to 190C

@@ -1,4 +1,4 @@
-# fish ball curry
+# Fish ball curry
 
 Author: Runa Begum
 
@@ -6,7 +6,7 @@ Notes: 7/11/16
 
 ## Ingredients:
 - [ ] 2 packets minced sittol maas, defrosted
-- [ ] fresh coriander
+- [ ] Fresh coriander
 - [ ] 2 green chillies, finely chopped
 - [ ] 1 tsp salt
 - [ ] 1 tsp turmeric
@@ -21,11 +21,11 @@ Notes: 7/11/16
 - [ ] 0.5 tsp curry powder
 
 ## Method:
-1. mix the fish, 2 chillies, 1 tsp salt, 1 tsp turmeric, chilli powder, and half a handful of chopped coriander. Set this mixture aside.
-2. add 2-3 tbsp oil to pan and lightly brown garlic
-3. add onions, salt, and chillies. Soften onions (cover if needed)
-4. add spices, mix and cook uncovered for a few minutes
-5. add 3 cups water to create sauce, and cook
-6. in background, prepare fish balls. Use a bit of oil in palm of hand if needed.
-7. add to sauce once it starts to simmer. Cook for 20-30 minutes
-8. top with fresh coriander. Serve with boiled rice.
+1. Mix the fish, 2 chillies, 1 tsp salt, 1 tsp turmeric, chilli powder, and half a handful of chopped coriander. Set this mixture aside.
+2. Add 2-3 tbsp oil to pan and lightly brown garlic
+3. Add onions, salt, and chillies. Soften onions (cover if needed)
+4. Add spices, mix and cook uncovered for a few minutes
+5. Add 3 cups water to create sauce, and cook
+6. In background, prepare fish balls. Use a bit of oil in palm of hand if needed.
+7. Add to sauce once it starts to simmer. Cook for 20-30 minutes
+8. Top with fresh coriander. Serve with boiled rice.
