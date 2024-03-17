@@ -24,6 +24,10 @@ Cooking: 120 minutes
 - [ ] 5 cloves garlic, crushed
 - [ ] 1 pinch dried thyme
 - [ ] Chicken stock
+- [ ] Plain nacho chips
+- [ ] Sour cream
+- [ ] Coriander, finely chopped
+- [ ] Grated cheese
 
 ## Method:
 1. Prepare the spice mix
