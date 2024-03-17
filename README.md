@@ -2,7 +2,7 @@
 
 - [Aloo bazee](md/aloo-bazee.md) by Runa Begum
 - [Base curry sauce (small)](md/base-curry-sauce-small.md) by Dan Toombs
-- [Bean chilli v1.2](md/bean-chilli-v1-2.md) by Robin Neville, Runa Begum
+- [Bean chilli](md/bean-chilli.md) by Robin Neville
 - [Bengali aubergine curry (begun posto)](md/bengali-aubergine-curry-begun-posto.md) by Bangalir Ranna Banna
 - [Bolognese Ragu](md/bolognese-ragu.md) by Gennaro Contaldo
 - [Buttered kale](md/buttered-kale.md) by Louise Pickford
@@ -24,6 +24,7 @@
 - [Jamie's roast chicken](md/jamies-roast-chicken.md) by Jamie Oliver
 - [Kebabs](md/kebabs.md) by Runa Begum
 - [Lamb pork or beef madras](md/lamb-pork-or-beef-madras.md) by Madhur Jaffrey
+- [Porridge](md/porridge.md) by me
 - [Potato gratin](md/potato-gratin.md) by Nigella Lawson
 - [Potato salad](md/potato-salad.md) by Robin Neville
 - [Roast potatoes](md/roast-potatoes.md) by Tom Kerridge
