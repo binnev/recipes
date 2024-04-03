@@ -19,6 +19,7 @@
 - [Egg in a basket](md/egg-in-a-basket.md) by 
 - [Fish ball curry](md/fish-ball-curry.md) by Runa Begum
 - [Haag](md/haag.md) by Runa begum
+- [Halloumi sprout wraps](md/halloumi-sprout-wraps.md) by Rukmini Iyer
 - [Hearty Vegetable Stew](md/hearty-vegetable-stew.md) by Chuck Underwood
 - [Jamie's Italian leg of lamb](md/jamies-italian-leg-of-lamb.md) by Jamie Oliver
 - [Jamie's roast chicken](md/jamies-roast-chicken.md) by Jamie Oliver
