@@ -15,6 +15,7 @@
 - [Chicken potato curry](md/chicken-potato-curry.md) by 
 - [Chicken soup](md/chicken-soup.md) by Wendi Spraker
 - [Chickpea and potato curry](md/chickpea-and-potato-curry.md) by Runa Begum
+- [Coconut rice](md/coconut-rice.md) by Robin Neville
 - [Dhaal](md/dhaal.md) by Runa Begum
 - [Egg in a basket](md/egg-in-a-basket.md) by 
 - [Fish ball curry](md/fish-ball-curry.md) by Runa Begum
