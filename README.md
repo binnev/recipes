@@ -25,6 +25,7 @@
 - [Jamie's roast chicken](md/jamies-roast-chicken.md) by Jamie Oliver
 - [Kebabs](md/kebabs.md) by Runa Begum
 - [Lamb pork or beef madras](md/lamb-pork-or-beef-madras.md) by Madhur Jaffrey
+- [Piri Piri chicken](md/piri-piri-chicken.md) by Nelson Carvalheiro
 - [Porridge](md/porridge.md) by me
 - [Potato gratin](md/potato-gratin.md) by Nigella Lawson
 - [Potato salad](md/potato-salad.md) by Robin Neville
