@@ -16,7 +16,7 @@ Cooking: 30 minutes
 - [ ] 1 chilli
 - [ ] 1 tbsp curry powder
 - [ ] Chicken stock
-- [ ] Coriander
+- [ ] Fresh coriander
 - [ ] 150 g wholemeal flour
 
 ## Method:
