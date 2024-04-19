@@ -9,8 +9,8 @@ Cooking: 20 minutes
 ## Ingredients:
 - [ ] 1 red bell pepper
 - [ ] 1 tsp smoked paprika
-- [ ] 1 tsp cumin
-- [ ] 1 tsp coriander
+- [ ] 1 tsp ground cumin
+- [ ] 1 tsp coriander powder
 - [ ] 1 tsp chilli powder
 - [ ] 250 g chestnut mushrooms
 - [ ] 1 white onion
