@@ -34,6 +34,7 @@
 - [Potato gratin](md/potato-gratin.md) by Nigella Lawson
 - [Potato salad](md/potato-salad.md) by Robin Neville
 - [Roast potatoes](md/roast-potatoes.md) by Tom Kerridge
+- [Salad nicoise](md/salad-nicoise.md) by Gordon Ramsay
 - [Sardine curry](md/sardine-curry.md) by Runa begum
 - [Sex chicken](md/sex-chicken.md) by Robin Neville
 - [Spaghetti Carbonara](md/spaghetti-carbonara.md) by Gennaro Contaldo
