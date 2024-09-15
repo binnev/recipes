@@ -31,4 +31,4 @@ Cooking: 10 minutes
 1. Boil eggs until semi-soft (7.5 minutes from fridge). Cool in cold water.
 2. Boil the potatoes and beans. Season them while they're still warm with salt and olive oil, so they absorb more flavour.
 3. Prepare the dressing; combine mustard, anchovies, capers into a paste. Add garlic, black pepper, red wine vinegar, olive oil.
-4. Combine the potatoes, beans, lettuce, olives, tomatoes and the dressing. Put a bit of dressing on the bottom so that everything is covered.
+4. Combine the potatoes, beans, lettuce, olives, tomatoes, tuna, and the dressing. Put a bit of dressing on the bottom so that everything is covered.
