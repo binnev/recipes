@@ -9,6 +9,7 @@
 - [Carrots in a bag](md/carrots-in-a-bag.md) by Jamie Oliver
 - [Cauliflower and potato curry](md/cauliflower-and-potato-curry.md) by Runa begum
 - [Chapatis](md/chapatis.md) by Rahman Neville
+- [Chicken Fricassée](md/chicken-fricasse.md) by recipetineats
 - [Chicken madras curryhouse style](md/chicken-madras-curryhouse-style.md) by Dan Toombs
 - [Chicken madras](md/chicken-madras.md) by Neelam Bajwa
 - [Chicken mushroom pot rice](md/chicken-mushroom-pot-rice.md) by mob kitchen
