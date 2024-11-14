@@ -7,6 +7,8 @@ From: https://www.recipetineats.com/chicken-fricassee-quick-french-chicken-stew/
 
 Servings: 8
 
+Notes: https://www.youtube.com/watch?v=sqelF9LaAlQ&ab_channel=RecipeTinEats
+
 ## Equipment: 
 - Shallow cast-iron pan
 - Oven

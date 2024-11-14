@@ -19,6 +19,7 @@
 - [Coconut dal](md/coconut-dal.md) by Hello Fresh
 - [Coconut rice](md/coconut-rice.md) by Robin Neville
 - [Dhaal](md/dhaal.md) by Runa Begum
+- [Draadjesvlees](md/draadjesvlees.md) by Sepp van Dijk
 - [Egg in a basket](md/egg-in-a-basket.md) by 
 - [Fish ball curry](md/fish-ball-curry.md) by Runa Begum
 - [Haag](md/haag.md) by Runa begum
@@ -28,6 +29,7 @@
 - [Jamie's roast chicken](md/jamies-roast-chicken.md) by Jamie Oliver
 - [Kebabs](md/kebabs.md) by Runa Begum
 - [Lamb pork or beef madras](md/lamb-pork-or-beef-madras.md) by Madhur Jaffrey
+- [Laxpudding](md/laxpudding.md) by Sebastian Graus
 - [Moroccan Chicken](md/moroccan-chicken.md) by Mum
 - [Oma's Appeltaart](md/omas-appeltaart.md) by Oma Dora
 - [Piri Piri chicken](md/piri-piri-chicken.md) by Nelson Carvalheiro
