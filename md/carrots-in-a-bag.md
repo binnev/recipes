@@ -11,8 +11,7 @@ From: https://www.youtube.com/watch?v=F3Z151LkEVg
 - [ ] Butter
 - [ ] Thyme
 - [ ] Orange peel (optional)
-- [ ] 1 egg, to use as glue for tin foil "envelope"
-- [ ] 1 glass white wine
+- [ ] 1 glass white wine (optional)
 
 ## Method:
 1. Chop the tops off the carrots, leaving short bits of leaf/shoot.
