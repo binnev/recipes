@@ -6,7 +6,6 @@ From: https://www.youtube.com/watch?v=_pHsF3qiE0w&t=241s
 
 ## Ingredients:
 - [ ] 1.5 kg leg of lamb
-- [ ] 1 jar kalamata olives
 - [ ] 4 fillet anchovies
 - [ ] 3 cloves garlic
 - [ ] Rosemary
