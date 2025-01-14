@@ -2,7 +2,7 @@ name: bean chilli
 author: Robin Neville
 prep_minutes: 30
 cook_minutes: 120
-ingredients: 
+ingredients:
   - 3, 400g can, plum tomatoes
   - 3, 400g can, black eyed beans; rinsed
   - 3, 400g can, red kidney beans; rinsed
@@ -18,14 +18,16 @@ ingredients:
   - 5, cloves, garlic; crushed
   - 1, pinch, dried thyme
   - chicken stock
-# accompaniments
+  - spicy chorizo; diced into small cubes
+  # accompaniments
   - plain nacho chips
   - sour cream
   - coriander; finely chopped
   - grated cheese
 
-method: 
+method:
   - prepare the spice mix
+  - fry the chorizo to release the oil
   - sweat onions and garlic with dried thyme
   - add spice mix and chipotle paste and fry gently (add some water if it gets too dry)
   - add beans, tomatoes, stock. Add water until the top of the beans are just covered

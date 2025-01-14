@@ -22,6 +22,7 @@ Cooking: 120 minutes
 - [ ] 5 cloves garlic, crushed
 - [ ] 1 pinch dried thyme
 - [ ] Chicken stock
+- [ ] Spicy chorizo, diced into small cubes
 - [ ] Plain nacho chips
 - [ ] Sour cream
 - [ ] Coriander, finely chopped
@@ -29,7 +30,8 @@ Cooking: 120 minutes
 
 ## Method:
 1. Prepare the spice mix
-2. Sweat onions and garlic with dried thyme
-3. Add spice mix and chipotle paste and fry gently (add some water if it gets too dry)
-4. Add beans, tomatoes, stock. Add water until the top of the beans are just covered
-5. Simmer for 2h
+2. Fry the chorizo to release the oil
+3. Sweat onions and garlic with dried thyme
+4. Add spice mix and chipotle paste and fry gently (add some water if it gets too dry)
+5. Add beans, tomatoes, stock. Add water until the top of the beans are just covered
+6. Simmer for 2h
