@@ -4,6 +4,18 @@ source: https://www.youtube.com/watch?v=43yWAafyFMQ
 notes: In this recipe we make the base curry sauce and the madras in one go.
 serves: 20
 
+cost:
+  - carrot: 0.35
+  - chicken: 17
+  - coriander: 1.2
+  - ginger: 2.2
+  - garlic: 2.2
+  - onions: 1
+  - bell peppers: 2
+  - tomatoes: 1.65
+  - TOTAL: 27.6
+cost per serving: 1.38
+
 ingredients:
   # base gravy
   - ghee or veg oil
