@@ -31,6 +31,7 @@
 - [Jamie's Italian leg of lamb](md/jamies-italian-leg-of-lamb.md) by Jamie Oliver
 - [Jamie's roast chicken](md/jamies-roast-chicken.md) by Jamie Oliver
 - [Kebabs](md/kebabs.md) by Runa Begum
+- [Korean-style aubergines with spring onions and sesame rice](md/korean-style-aubergines-with-spring-onions-and-sesame-rice.md) by Rukmini Iyer
 - [Lamb pork or beef madras](md/lamb-pork-or-beef-madras.md) by Madhur Jaffrey
 - [Laxpudding](md/laxpudding.md) by Sebastian Graus
 - [Lemon Tagliatelle](md/lemon-tagliatelle.md) by Gennaro Contaldo
