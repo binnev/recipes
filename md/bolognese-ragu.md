@@ -4,6 +4,8 @@ Author: Gennaro Contaldo
 
 From: https://www.youtube.com/watch?v=_qy6HNqxhKU
 
+Servings: 14
+
 ## Ingredients:
 - [ ] 1 carrot
 - [ ] 1 onion

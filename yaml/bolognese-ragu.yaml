@@ -1,6 +1,19 @@
 name: Bolognese Ragu
 author: Gennaro Contaldo
 source: https://www.youtube.com/watch?v=_qy6HNqxhKU
+servings: 14
+prep_minutes: 30
+cook_minutes: 60
+
+cost:
+  mince: 8
+  pancetta: 2 # 4.15 for 250g
+  celery: 0.12 # 1.25 per head / 10 stalks
+  onion: 0.10
+  carrot: 0.39
+  pasta: 1.5
+  TOTAL: 12.11
+  PER SERVING: 0.87
 
 ingredients:
   - 1, carrot

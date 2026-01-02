@@ -2,6 +2,13 @@ name: bean chilli
 author: Robin Neville
 prep_minutes: 30
 cook_minutes: 120
+
+cost: 
+  beans and tomatoes: 20
+  onions: 0.2 
+  chipotle paste: 2
+  
+
 ingredients:
   - 3, 400g can, plum tomatoes
   - 3, 400g can, black eyed beans; rinsed
