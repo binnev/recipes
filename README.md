@@ -49,6 +49,7 @@
 - [Spicy tomato soup](md/spicy-tomato-soup.md) by Gordon Ramsay
 - [Spinach and king prawns](md/spinach-and-king-prawns.md) by Runa Begum
 - [Sweet potato spinach dhal](md/sweet-potato-spinach-dhal.md) by Robin Neville
+- [Thai green curry](md/thai-green-curry.md) by recipetineats
 - [The Governor's Kung Bao](md/the-governors-kung-bao.md) by Hello Fresh
 - [Tuna pasta salad](md/tuna-pasta-salad.md) by Mary Clarke
 - [Veggie fajitas](md/veggie-fajitas.md) by Robin Neville
