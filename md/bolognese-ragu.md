@@ -4,6 +4,12 @@ Author: Gennaro Contaldo
 
 From: https://www.youtube.com/watch?v=_qy6HNqxhKU
 
+Servings: 14
+
+Preparation: 30 minutes
+
+Cooking: 60 minutes
+
 ## Ingredients:
 - [ ] 1 carrot
 - [ ] 1 onion
