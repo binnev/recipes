@@ -1,15 +1,15 @@
 # Vietnamese lemongrass chicken
 ![](../images/https://cookingwithgenius.com/wp-content/uploads/2025/06/lemongrass-chicken-rice-bowl.jpg)
 
-Author: Geniuseatss
+Author: Genio Ng
 
 From: https://cookingwithgenius.com/vietnamese-lemongrass-chicken/
 
-Servings: 1
+Servings: 3
 
-Preparation: 1 minutes
+Preparation: 15 minutes
 
-Cooking: 1 minutes
+Cooking: 10 minutes
 
 Notes: https://www.instagram.com/reel/DOmeva2E9yd/?igsh=aXphOXMxZnR1amd3
 

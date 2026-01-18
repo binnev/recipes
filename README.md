@@ -54,7 +54,7 @@
 - [The Governor's Kung Bao](md/the-governors-kung-bao.md) by Hello Fresh
 - [Tuna pasta salad](md/tuna-pasta-salad.md) by Mary Clarke
 - [Veggie fajitas](md/veggie-fajitas.md) by Robin Neville
-- [Vietnamese lemongrass chicken](md/vietnamese-lemongrass-chicken.md) by geniuseatss
+- [Vietnamese lemongrass chicken](md/vietnamese-lemongrass-chicken.md) by Genio Ng
 - [Yorkshire puddings](md/yorkshire-puddings.md) by Jamie Oliver
 - [Zingy fennel and lemon risotto](md/zingy-fennel-and-lemon-risotto.md) by Hello Fresh
 
