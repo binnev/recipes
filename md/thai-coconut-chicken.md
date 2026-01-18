@@ -27,6 +27,7 @@ Servings: 4
 - [ ] Coriander, chopped
 - [ ] 250 ml chicken stock
 - [ ] 1 tbsp honey
+- [ ] Rice
 
 ## Method:
 1. Add the chicken mince, courgette, carrot, 2 spring onion, garlic, ginger paste, chilli paste, soy sauce, egg, lime and mix well together.

@@ -1,7 +1,7 @@
 name: Vietnamese lemongrass chicken
 author: Genio Ng
 servings: 3
-prep_minutes: 15
+prep_minutes: 100
 source: https://cookingwithgenius.com/vietnamese-lemongrass-chicken/
 cook_minutes: 10
 notes: https://www.instagram.com/reel/DOmeva2E9yd/?igsh=aXphOXMxZnR1amd3
@@ -27,6 +27,9 @@ ingredients:
   - 2, tbsp, lime juice
   - 3, cloves, garlic; finely minced
   - 2, bird's eye chili; finely chopped
+  # sides
+  - 1, carrot; shredded
+  - rice
 
 method:
   - "Marinate the Chicken: In a mixing bowl, combine lemongrass, shallots, garlic, ginger, oyster sauce, soy sauce, fish sauce, honey, brown sugar, and neutral oil. Mix well. Add the chicken thighs and coat them thoroughly in the marinade. Cover and refrigerate for at least 1 hour, preferably overnight for maximum flavor."
