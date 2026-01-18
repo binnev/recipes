@@ -1,5 +1,5 @@
 # Thai green curry
-![](https://www.recipetineats.com/tachyon/2019/02/Thai-Green-Curry_5.jpg)
+![](../images/https://www.recipetineats.com/tachyon/2019/02/Thai-Green-Curry_5.jpg)
 
 Author: Recipetineats
 
